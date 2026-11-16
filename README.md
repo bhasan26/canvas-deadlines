@@ -2,6 +2,13 @@
 
 A Chrome and Edge extension that puts your Canvas assignments in a dashboard sidebar, a scrolling deadline ticker, and a toolbar popup. It uses your existing Canvas sign-in and requires no API key or build step.
 
+
+## Dashboard preview
+
+The deadline ticker and sidebar shown with fictional courses and assignments.
+
+![Canvas Deadlines dashboard showing the scrolling deadline ticker, three-day workload, course progress rings, and upcoming assignments](dashboard-preview.png)
+
 ## Install
 
 1. On the GitHub repository page, select **Code → Download ZIP** and extract the ZIP.
